@@ -100,7 +100,8 @@ LORA=/path/to/lora/weight/by/DPO-training # You can find it in outcomes file
 TEMPLATE='This_sentence_:_"*sent_0*"_means_in_one_word:"'
 python evaluation.py \
     --model_name_or_path $MODEL_PATH \
-    --mode test --mask_embedding_sentence \
+    --mode test \
+    --mask_embedding_sentence \
     --mask_embedding_sentence_template $TEMPLAT \
     --lora_weight $LORA \
     --load_kbit 16 
