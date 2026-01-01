@@ -74,7 +74,7 @@ swift rlhf \
   --dataset ./data/paraphrase_data.jsonl \
   --per_device_train_batch_size 8 \
   --gradient_accumulation_steps 8 \
-  --system 'You are a helpful assistant.' \
+  --system 'You are a helpful assistant' \
   --train_type lora \
   --load_from_cache_file true \
   --save_strategy steps \
