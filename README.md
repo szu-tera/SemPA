@@ -13,7 +13,7 @@
   </p>
   <p>
     <a href="#getting-started" style="text-decoration: none; font-weight: bold;">✨ Getting Started</a> •
-    <a href="#evaluation" style="text-decoration: none; font-weight: bold;">📃 Evaluation</a> 
+    <a href="#evaluation" style="text-decoration: none; font-weight: bold;">📃 Evaluation</a>  •
     <a href="#contact" style="text-decoration: none; font-weight: bold;">📨 Contact</a> •
     <a href="#citation" style="text-decoration: none; font-weight: bold;">🎈 Citation</a>
   </p>
