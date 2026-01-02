@@ -122,6 +122,7 @@ bash generation_eval.sh \
 ## 📨Contact
 
 - Ziyang Chen: chenziyang0905@163.com
+- Zhenxuan Huang: 2022211668@stu.cqupt.edu.cn
 
 ---
 
