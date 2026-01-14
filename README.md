@@ -2,7 +2,7 @@
   
 # SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/#TODO)
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.05075)
 [![Github](https://img.shields.io/badge/code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szu-tera/SemPA)
 
 <div align="center" style="font-family: Arial, sans-serif;">
@@ -131,10 +131,10 @@ bash generation_eval.sh \
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{#TODO,
+@article{chen2026sempa,
   title={SemPA: Improving Sentence Embeddings of Large Language Models through Semantic Preference Alignment},
-  author={#TODO},
-  journal={#TODO},
-  year={2025}
+  author={Chen, Ziyang and Huang, Zhenxuan and Wang, Yile and Wang, Weiqin and Yin, Lu and Huang, Hui},
+  journal={arXiv preprint arXiv:2601.05075},
+  year={2026}
 }
 ```
