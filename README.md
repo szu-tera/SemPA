@@ -102,7 +102,7 @@ python evaluation.py \
     --model_name_or_path $MODEL_PATH \
     --mode test \
     --mask_embedding_sentence \
-    --mask_embedding_sentence_template $TEMPLAT \
+    --mask_embedding_sentence_template $TEMPLATE \
     --lora_weight $LORA \
     --load_kbit 16 
 ```
