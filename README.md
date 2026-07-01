@@ -23,6 +23,8 @@
 
 ## 🎉News
 - **[2025/12]** We release both the paper and code for SemPA.
+## Acknowledgement
+- Our code is based on PromptEOL
 
 ---
 
